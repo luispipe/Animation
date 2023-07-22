@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">AnimacionesTransiciones</string>
+    <string name="fragmento_a">Hola desde el fragmento A</string>
+    <string name="fragmento_b">Hola desde el fragmento B</string>
 </resources>
